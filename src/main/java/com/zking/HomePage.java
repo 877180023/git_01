@@ -23,7 +23,7 @@ public class HomePage extends WebPage {
 
         // Add the simplest type of label
         add(new Label("message", "If you see this message wicket is properly configured and running"));
-		System.out.println("添加添加添加");
+		System.out.println("dsssdwaw");
         // TODO Add your page's components here
     }
 }
